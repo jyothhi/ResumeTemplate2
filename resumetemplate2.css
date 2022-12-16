@@ -1,0 +1,112 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inder&display=swap');
+
+#main{
+    width:210mm;
+    height:297mm}
+#col1{
+    background-color: #0704b0;
+    height:1000px;
+    color:white;
+    font-family:Inder;
+}
+#web{
+    font-size: 20px;
+    font-family: Inder;
+}
+#contact{
+    font-family: Inder;
+    background-color: #3e3bc7;
+    font-size: 24px;
+}
+#addr{
+    
+    font-size: 16px;
+    font-family: Inder;
+}
+#knl{
+    font-family: Inder;
+    font-size: 14px;
+}
+#phn{
+    font-size: 16px;
+    font-family: Inder;
+}
+#phn1{
+    font-family: Inder;
+    font-size: 14px;
+}
+#email{
+    font-size: 16px;
+    font-family: Inder;
+}
+#email1{
+    font-family: Inder;
+    font-size: 14px;
+}
+#tech{
+    font-family: Inder;
+    background-color: #3e3bc7;
+    font-size: 24px;}
+ #comp{
+    font-family: Inder;
+        background-color: #3e3bc7;
+        font-size: 24px;
+    }
+    #col2{
+        font-family: Inder;
+        background-color: #ffffff;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    #hr{
+        margin-top: 50px;
+    }
+    #hr2{
+        margin-top: 20px;   
+    }
+    #wh{
+        font-size: 24px;
+        font-family: Inder;
+    }
+    #wh1{
+        font-family: Inder;
+        font-size:20px;
+    }
+    #wh2{
+        font-family: Inder;
+        font-size: 20px;    
+        text-align: left;         
+    }
+    #it{
+        font-family: Inder;
+        font-size: 14px;
+    }
+    #it1{
+        font-family: Inder;
+        font-size:14px;
+    }
+    #edu{  
+        font-family: Inder;
+        margin-top: px;
+        font-size: 24px;
+    }
+    #edu1{
+        font-family: Inder;
+        text-align: left;
+    }
+    #edu2{
+        font-family: Inder;
+        font-size: 20px;
+    }
+    #edu3{
+        font-family: Inder;
+        font-size: 20px;
+        text-align: left;
+    }
+    #edu4{
+        font-family: Inder;
+        font-size: 14px;
+        text-align: left;
+    }
+    
